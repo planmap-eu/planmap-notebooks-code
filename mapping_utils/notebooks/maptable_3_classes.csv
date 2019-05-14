@@ -1,0 +1,10 @@
+Extended_Label,Geological,R,G,B
+Smooth Plains, sp, 255, 190, 190
+Intermediate Plains, imp, 245, 122, 122
+Intercrater Plains, icp, 137,90,68
+Crater material-well preserved, c3, 255,255,115
+Crater material-degraded, c2, 92,137,68
+Crater material-heavily degraded, c1, 115,0,0
+Degraded catenae, dc, 223,128,255
+Crater floor material-smooth, cfs, 255,255,175
+Crater floor material-hummocky, cfh, 205,170,102
