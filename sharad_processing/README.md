@@ -26,5 +26,5 @@ Additional notebooks contain material that can be relevant to operate on sharad 
 
 
 # Relevant projects:
-- https://github.com/adamoferro/sofa/
+- https://github.com/adamoferro/sofa/ and https://github.com/adamoferro/dsarsim
 
