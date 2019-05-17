@@ -1,7 +1,7 @@
 # sharpy - preliminary release
 Sharad data search, download and conversion in just a couple of methods.
 
-These notebooks can be used to transform radargrams to serg-y files and import them into [OpendTect](https://github.com/OpendTect/OpendTect) to obtain interpretable seismic-like sections:
+These notebooks can be used to transform radargrams to seg-y files and import them into [OpendTect](https://github.com/OpendTect/OpendTect) to obtain interpretable seismic-like sections:
 
 ![radargrams-3d](images/shot.png  "radargrams-3d")
 
