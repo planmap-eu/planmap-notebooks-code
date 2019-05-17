@@ -7,6 +7,7 @@ Each subfolder contains tools and code realated to a different planmap's activit
 # Contributing
 No strict rules, just a subfolder for each topic/small-project. When a subproject will become too big/active we can move to its own repo. 
 Contributors can be either listed here, or, if needed in each subfolder readme.md file or single notebook.
+This repo might contain code coming from other public resources, just add a comment to explicit the origin of the specific method or of other snippets coming from other repos. 
 
 # Contributors
 - [luca](https://github.com/luca-penasa)
