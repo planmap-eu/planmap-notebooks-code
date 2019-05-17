@@ -15,6 +15,9 @@ def crop_section(image, minh, maxh, minz=2200, maxz=2600):
     return image[:,minh:maxh+1][minz:maxz, :]
 
 def assemply_segy(image, xStart, xEnd, yStart, yEnd, dt=0.01 , scaler=1000):
+    """
+    mostly from http://geophysicslabs.com/2017/02/12/how-to-add-cross-sections-to-opendtect/
+    """
     data = np.asarray(image,dtype=np.float32)
     nrows,ncols = image.shape
     # create linearly interpolated sequence of points between the two ends of the line
