@@ -25,5 +25,6 @@ In particular, this simple module and notebooks shows how it is possible to:
 Additional notebooks contain material that can be relevant to operate on sharad data.
 
 
-
+# Relevant projects:
+- https://github.com/adamoferro/sofa/
 
