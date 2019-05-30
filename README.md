@@ -12,7 +12,7 @@ This repo might contain code coming from other public resources, just add a comm
 # Contributors
 - [luca](https://github.com/luca-penasa)
 - [angelo](https://github.com/aprossi)
-- [carlos]()
+- [carlos](https://github.com/chbrandt)
 
 # Relevant references and other projects
 
