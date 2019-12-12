@@ -1,0 +1,3 @@
+[submodule "sharad_processing"]
+	path = sharad_processing
+	url = git@github.com:planmap-eu/sharpy.git
