@@ -37,7 +37,7 @@
     <div>&nbsp;</div>
     <h2>Drawing comics: Bianca Maria Scotton</h2>
     <p class="rtejustify"><a href="http://www.behance.net/biancamaria86"><img alt=""
-          src="https://planmap.eu/sites/default/files/biancamaria.png" style="border-radius:10%; float:right; height:187px; margin-left:10px; margin-right:10px; width:120px"></a>
+          src="https://planmap.eu/sites/default/files/biancamaria.png" style="border-radius:10%; float:left; height:187px; margin-left:10px; margin-right:10px; width:120px"></a>
       Bianca completed her bachelor and master degree in Communication Sciences
       and Media Education at the University of Padova in Italy, after that she
       moved to the UK and completed her Master in&nbsp;Illustration and
